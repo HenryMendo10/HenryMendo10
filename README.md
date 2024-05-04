@@ -30,8 +30,6 @@
   </a>
 </p>
 <br>
-
-<p>Thank you for visiting my profile!</p>
 <!-------------------------->
 
 
